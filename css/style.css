@@ -1,0 +1,55 @@
+.slider{
+	background-image: url(../image/3.jpeg);
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
+	min-height: 500px;
+}
+.content{
+	background-color: rgba(22,23,25,.5);
+	margin-top: 50px;
+	padding: 20px 70px;
+}
+.content h1{
+	font-size: 30px;
+	color: white;
+	margin: 50px 0;
+
+}
+.content p{
+	font-size: 20px;
+	color: white;
+	margin: 50px 0;
+}
+.content button{
+	margin-bottom: 100px;
+
+}
+.ci .active {
+    opacity: 1;
+}
+.ci li {
+    bottom: 60px;
+    width: 15px;
+    height: 15px;
+    border-radius: 50%;
+    
+}
+.container{
+	margin-top: 20px;
+}
+.tab-content img{
+	height: 400px;
+}
+img{
+	width: 100%;
+}
+.navbar-brand img{
+	width: 30%;
+}
+img{
+	width: 100%;
+}
+.navbar-brand {
+	width: 30%;
+}
